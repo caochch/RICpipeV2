@@ -1,3 +1,0 @@
-@20210722: I updated the sub-function pair_part (the updated version is stored in upgrade_obtain_pairs_from_gapped_reads.pl)
-
-Accordingly, the obtain_pairs_from_gapped_reads.pl was updated;
